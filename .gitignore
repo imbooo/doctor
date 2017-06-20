@@ -1,0 +1,10 @@
+.idea
+node_modules
+data
+mochawesome-reports
+doc/*
+source
+npm-debug*
+.com.apple.timemachine.supported
+mytest
+config/zh.js
